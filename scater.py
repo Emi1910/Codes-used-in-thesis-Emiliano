@@ -79,7 +79,7 @@ def plot_freestream_sequence(caminho_pasta, pct_corte=0.0, descartar_iniciais=40
     plt.show()
 
 # --- EXECUÇÃO ---
-pasta_dados = r'/home/emiliano/Documentos/IC/Pulsator-selected/260225_first_measurements/high res'
+pasta_dados = r'pasta_dados'
 
 # Mantenha os mesmos parâmetros usados no Analise_2.py
 plot_freestream_sequence(
