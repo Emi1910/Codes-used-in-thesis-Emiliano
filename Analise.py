@@ -134,5 +134,5 @@ def analisar_histograma_piv(caminho_pasta, pct_corte=0, descartar_iniciais=40, n
     print("\nAnalysis completed!")
 
 # --- EXECUÇÃO ---
-pasta_dados = r'/home/emiliano/Documentos/IC/Pulsator-selected/260608/He plus air'
+pasta_dados = r'file_path'
 analisar_histograma_piv(pasta_dados, pct_corte=80, n_amostras=10, x_esquerda=5.0, x_direita=45.0)
