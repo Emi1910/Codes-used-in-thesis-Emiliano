@@ -204,7 +204,7 @@ def analisar_e_separar_fases_sequencial(caminho_da_pasta, vel_alvo, tolerancia=1
         plt.show(block=True)
 
 # --- EXECUÇÃO ---
-pasta_dados = r'/home/emiliano/Documentos/IC/Pulsator-selected/260325_near_wall_air'
+pasta_dados = r'file_path'
 
 analisar_e_separar_fases_sequencial(
     caminho_da_pasta=pasta_dados, 
