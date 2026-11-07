@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 # =============================================================================
 # 1. PARAMETERS & INPUT CONTROLS
 # =============================================================================
-caminho_pasta = r'/home/emiliano/Documentos/IC/Pulsator-selected/260608/air'
+caminho_pasta = r'file path'
 descartar_iniciais = 40       
 
 # Filter Settings
